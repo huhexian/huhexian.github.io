@@ -1,6 +1,7 @@
 +++
 title = "Now"
 url = "/now.html"
+menu = "main"
 +++
 
 最后更新时间：2023年11月13日

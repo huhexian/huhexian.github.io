@@ -1,5 +1,6 @@
 +++
 title = "Hugo"
+url = "/hugo.html"
 menu = "main"
 +++
 
